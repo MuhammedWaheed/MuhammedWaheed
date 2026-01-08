@@ -1,4 +1,4 @@
-# Muhammed Waheed
+# Muhammed Waheed Muhammed
 
 **AI / Machine Learning & Generative AI Engineer**  
 *Applied AI • Intelligent Automation • Production-Focused Systems*
