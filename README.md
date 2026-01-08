@@ -1,31 +1,91 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://MuhammedWaheed.io)
-<h1 align="center">Hi 👋, I'm Muhammed Waheed</h1>
-<h3 align="center">🌱 AI Engineer with hands-on experience in building production-level intelligent systems across agents, computer vision, natural language processing, and data science. Demonstrated success deploying real-time, multimodal AI applications. Motivated to contribute to meaningful AI projects that drive real impact, working alongside passionate experts in a high-impact environment</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Muhammed Waheed
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedwaheed&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedwaheed" /> </p>
+**AI / Machine Learning & Generative AI Engineer**  
+*Applied AI • Intelligent Automation • Production-Focused Systems*
 
-- 🌱 I’m interested in **Programing and Machine Learning**
+---
 
-- 🥅My Hobbies are **( Playing Football and going to the gym)**
+## 👋 Overview
 
-- 📫 How to reach me **wahedmohamed688@gmail.com**
+I am an AI-focused engineer specializing in **machine learning, generative AI, and intelligent automation**, with a strong emphasis on building **practical, scalable, and impact-driven solutions**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-waheed-4856a7245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-waheed-4856a7245" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/muhammedwaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammedwaheed" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009714761837&mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009714761837&mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/muhammed_waheed46?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/muhammed_waheed46?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
-</p>
+My work centers on translating advanced AI techniques into real-world applications—combining **data-driven modeling, modern LLM frameworks, and automation pipelines** to solve meaningful problems. I value clean engineering practices, continuous learning, and collaborative development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedwaheed&show_icons=true&locale=en&layout=compact" alt="muhammedwaheed" /></p>
+## 🚀 What I Build
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedwaheed&show_icons=true&locale=en" alt="muhammedwaheed" /></p>
+- **Applied Machine Learning & Deep Learning systems**  
+  From experimentation to end-to-end implementation
+- **Generative AI solutions**  
+  LLM-powered applications, AI assistants, and knowledge-driven tools
+- **Automation & intelligent workflows**  
+  Streamlined pipelines that reduce manual effort and improve efficiency
+- **Data-driven applications**  
+  Tools that convert insights into actionable outcomes
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedwaheed&" alt="muhammedwaheed" /></p>
+---
 
+## 📌 Featured Work
 
+Selected projects showcasing applied AI and automation:
+
+- **Generative AI Assistants & LLM Applications**
+- **End-to-End Machine Learning & Deep Learning Models**
+- **Automation Tools & Intelligent Workflows**
+- **Data Analytics & Decision-Support Systems**
+
+---
+
+## 📚 Research & Continuous Learning
+
+I actively explore and document:
+- Machine Learning & Deep Learning research
+- Advances in Generative AI and LLM ecosystems
+- Technical books, courses, and structured learning paths
+
+I maintain dedicated repositories for **research notes, summaries, and continuous learning resources**.
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+I am open to:
+- **AI / ML & Generative AI roles**
+- **Freelance or contract AI & automation projects**
+- **Open-source contributions and technical collaborations**
+
+📫 Connect with me on LinkedIn:  
+🔗https://www.linkedin.com/in/muhammed-waheed-4856a7245/
+
+---
+
+## 🛠 Technical Skills
+
+### Core AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge)
+![ANN](https://img.shields.io/badge/ANN-6A1B9A?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-1976D2?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-0097A7?style=for-the-badge)
+
+### Generative AI
+![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-4CAF50?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
+![AI Assistants](https://img.shields.io/badge/AI%20Assistants-673AB7?style=for-the-badge)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frameworks & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-AE2C2C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+⭐ **Always learning. Always building. Always improving.**
