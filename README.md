@@ -69,7 +69,8 @@ I am open to:
 ![CNN](https://img.shields.io/badge/CNN-1976D2?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-0097A7?style=for-the-badge)
 
-### Generative AI
+### NLP and Generative AI
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-4CAF50?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
@@ -78,7 +79,7 @@ I am open to:
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=&logoColor=white)
 
 ### Frameworks & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
