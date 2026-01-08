@@ -56,7 +56,9 @@ I am open to:
 - **Open-source contributions and technical collaborations**
 
 📫 Connect with me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-waheed-4856a7245/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wahedmohamed688@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-waheed-4856a7245/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wahedmohamed688@gmail.com)
+
 ---
 
 ## 🛠 Technical Skills
