@@ -83,7 +83,6 @@ I am open to:
 
 ### Frameworks & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-AE2C2C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
